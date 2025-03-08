@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORM</title>
+</head>
+<body>
+
+    <!-- FORM TAG -->
+     <h1>BASIC FORM</h1>
+    <center>
+        <form action="HOME.html" method="get" autocomplete="off">
+
+            <!-- USERNAME -->
+            <!-- <label for="username">USERNAME</label> -->
+            <input type="text" name="username" placeholder="ENTER USER-NAME" required>   <br><br>
+
+            <!-- PASSWORD -->
+            <!-- <label for="password">PASSWORD</label> -->
+            <input type="password" id="password" name="password" placeholder="PASSWORD HERE" required> <br><br>
+
+            <!-- EMAIL -->
+             <!-- <label for="email">Email</label> -->
+             <input type="email" name="email" id="email" placeholder="example@gmail.com" required> <br><br>
+
+            <!--PHONE NUMBER  -->
+             <!-- <label for="PH.NO">PHONE-NO</label> -->
+             <input type="tel" name="phone-number" id="PH.no" placeholder="PHONE-NO" required> <br><br>
+
+            <!--DATE OF BIRTH  -->
+             <label for="dob">D.O.B</label>
+             <input type="date" name="D.O.B" id="dob" required> <br><br>
+
+            <!-- GENDER -->
+             <label for="">GENDER : </label>
+             <input type="radio" name="gender" value="male" required>
+             <label for="">male</label>
+             <input type="radio" name="gender" value="female" required>
+             <label for="">female</label>
+             <input type="radio" name="gender" value="other" required>
+             <label for="">other</label>  <br><br>
+
+            <!-- GENDER  -->
+            <!-- <label for="gen">GENDER : </label>
+            <select name="GENDER" id="gen">
+              <option value="select">SELECT</option>
+              <option value="male">MALE</option>
+              <option value="female">FEMALE</option>
+              <option value="other">OTHER</option>
+            </select> <br><br>  -->
+
+             <!-- TEXTAREA ADDRESS  -->
+              <!-- <label for="add.">ADDRESS</label> -->
+              <textarea name="address" id="add." rows="5" cols="30" placeholder="ENTER ADDRESS"></textarea> <br><br>
+
+            <!-- FILE  -->
+              <label for="">FILE</label>
+              <input type="file" required>  <br><br>
+
+            <!-- SELECT  -->
+             <label for="PASS.TYPE">SELECT YOUR TYPE : </label>
+             <select name="PASS-TYPE" id="PASS.TYPE" required>
+                <option value="">SELECT</option>
+                <option value="GENERAL-TYPE">GENERAL PASS</option>
+                <option value="STUDENT-TYPE">STUDENT PASS</option>
+             </select>  <br><br>
+
+
+            <input type="submit">
+    
+        </form>
+    </center>
+
+
+
+
+</body>
+</html>
