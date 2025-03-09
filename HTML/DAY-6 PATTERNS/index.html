@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORM-PATTERNS</title>
+</head>
+<body>
+    <!-- FORM -->
+
+    <!-- create account form -->
+
+    <br><br>
+    
+    <center>
+        <fieldset>
+            <legend>Create Account</legend>
+            <form action="" method="get">
+                <input type="text" name="username" placeholder="enter username"> <br><br>
+                <input type="password" name="password" placeholder="enter password"> <br><br>
+                <input type="tel" name="phone.no" placeholder="enter mobile.no"> <br><br>
+                <input type="email" name="email" placeholder="enter email"> <br><br>
+                <input type="date" name="date of birth"> <br><br>
+                <!-- GENDER -->
+                <label for="">GENDER : </label>
+                <input type="radio" name="gender" value="male" id="male">
+                <label for="male">male</label>
+                <input type="radio" name="gender" value="female" id="female">
+                <label for="female">female</label> <br><br>
+                <input type="submit" value="Signup">
+             </form>
+        </fieldset>
+    </center>
+       
+
+      <br><br><br>
+
+     <center>
+        <table border="1" cellspacing="0" cellpadding="20">
+            <tr>
+                <td>
+                    <center>
+                        <!-- create account form -->
+         <h3>CREATE ACCOUNT</h3>
+         <form action="home.html" method="get" autocomplete="on">
+            <input type="text" name="username" placeholder="enter username" pattern="[A-Za-z0-9@#$&-_ ]{8,16}" title="Please use A-Z a-z 0-9 @#$&-_" required> <br><br>
+            <input type="password" name="password" placeholder="enter password" pattern="[A-Za-z0-9 @#$&_]{6,12}" title="Please use A-z a-z 0-9 @#$&_" required> <br><br>
+            <input type="tel" name="phone.no" placeholder="enter mobile.no" pattern="[6-9][0-9]{9}" title="Please enter valid Moble Number" required> <br><br>
+            <input type="email" name="email" placeholder="enter email" pattern="^[a-zA-Z0-9._%+-]+@(gmail|yahoo|outlook)\.com" required> <br><br>
+            <input type="date" name="date of birth"> <br><br>
+            <!-- GENDER -->
+            <label for="">GENDER : </label>
+            <input type="radio" name="gender" value="male" id="male" required>
+            <label for="male">male</label>
+            <input type="radio" name="gender" value="female" id="female" required>
+            <label for="female">female</label> <br><br>
+            <input type="submit" value="Signup">
+         </form>
+                    </center>
+                </td>
+            </tr>
+         </table>
+     </center>
+
+
+
+
+</body>
+</html>
