@@ -1,0 +1,16 @@
+#container {
+    width: 50%;
+    height: 30vh;
+    margin: auto;
+}
+#container > img {
+    width: 100%;
+}
+
+#btn {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    column-gap: 1rem;
+    line-height: 3rem;
+}
