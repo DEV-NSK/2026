@@ -1,0 +1,1987 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 4,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 25,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.asset.image": 5,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 3,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 2,
+			"com.tldraw.shape.geo": 10,
+			"com.tldraw.shape.note": 9,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 7,
+			"com.tldraw.shape.highlight": 1,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 4,
+			"com.tldraw.binding.arrow": 1
+		}
+	},
+	"records": [
+		{
+			"x": 273.54688637754134,
+			"y": 268.939340849411,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:scWtHVn5kU__PlFR0_miX",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"points": [
+							{
+								"x": 0,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": 0,
+								"y": -0.9,
+								"z": 0.5
+							},
+							{
+								"x": 0.9,
+								"y": -0.9,
+								"z": 0.5
+							},
+							{
+								"x": 1.79,
+								"y": -1.79,
+								"z": 0.5
+							},
+							{
+								"x": 2.69,
+								"y": -1.79,
+								"z": 0.5
+							},
+							{
+								"x": 3.59,
+								"y": -2.69,
+								"z": 0.5
+							},
+							{
+								"x": 4.49,
+								"y": -2.69,
+								"z": 0.5
+							},
+							{
+								"x": 5.38,
+								"y": -2.69,
+								"z": 0.5
+							},
+							{
+								"x": 6.28,
+								"y": -2.69,
+								"z": 0.5
+							},
+							{
+								"x": 6.28,
+								"y": -1.79,
+								"z": 0.5
+							},
+							{
+								"x": 7.18,
+								"y": -1.79,
+								"z": 0.5
+							},
+							{
+								"x": 7.18,
+								"y": -0.9,
+								"z": 0.5
+							},
+							{
+								"x": 7.18,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": 8.08,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": 8.08,
+								"y": 0.9,
+								"z": 0.5
+							},
+							{
+								"x": 8.08,
+								"y": 1.79,
+								"z": 0.5
+							},
+							{
+								"x": 8.97,
+								"y": 1.79,
+								"z": 0.5
+							},
+							{
+								"x": 8.97,
+								"y": 2.69,
+								"z": 0.5
+							},
+							{
+								"x": 9.87,
+								"y": 2.69,
+								"z": 0.5
+							},
+							{
+								"x": 9.87,
+								"y": 3.59,
+								"z": 0.5
+							},
+							{
+								"x": 10.77,
+								"y": 4.49,
+								"z": 0.5
+							},
+							{
+								"x": 10.77,
+								"y": 5.38,
+								"z": 0.5
+							},
+							{
+								"x": 10.77,
+								"y": 6.28,
+								"z": 0.5
+							},
+							{
+								"x": 11.67,
+								"y": 7.18,
+								"z": 0.5
+							},
+							{
+								"x": 11.67,
+								"y": 8.08,
+								"z": 0.5
+							},
+							{
+								"x": 11.67,
+								"y": 8.97,
+								"z": 0.5
+							},
+							{
+								"x": 12.56,
+								"y": 9.87,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 9.87,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 10.77,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 11.67,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 12.56,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 13.46,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 14.36,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 15.26,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 16.15,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 17.05,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 17.95,
+								"z": 0.5
+							},
+							{
+								"x": 12.56,
+								"y": 17.95,
+								"z": 0.5
+							},
+							{
+								"x": 12.56,
+								"y": 18.85,
+								"z": 0.5
+							},
+							{
+								"x": 12.56,
+								"y": 19.74,
+								"z": 0.5
+							},
+							{
+								"x": 11.67,
+								"y": 19.74,
+								"z": 0.5
+							},
+							{
+								"x": 11.67,
+								"y": 20.64,
+								"z": 0.5
+							},
+							{
+								"x": 10.77,
+								"y": 21.54,
+								"z": 0.5
+							},
+							{
+								"x": 9.87,
+								"y": 21.54,
+								"z": 0.5
+							},
+							{
+								"x": 9.87,
+								"y": 22.44,
+								"z": 0.5
+							},
+							{
+								"x": 8.97,
+								"y": 22.44,
+								"z": 0.5
+							},
+							{
+								"x": 8.97,
+								"y": 23.33,
+								"z": 0.5
+							},
+							{
+								"x": 8.08,
+								"y": 23.33,
+								"z": 0.5
+							},
+							{
+								"x": 7.18,
+								"y": 23.33,
+								"z": 0.5
+							},
+							{
+								"x": 6.28,
+								"y": 23.33,
+								"z": 0.5
+							},
+							{
+								"x": 5.38,
+								"y": 23.33,
+								"z": 0.5
+							},
+							{
+								"x": 4.49,
+								"y": 23.33,
+								"z": 0.5
+							},
+							{
+								"x": 5.38,
+								"y": 23.33,
+								"z": 0.5
+							},
+							{
+								"x": 6.28,
+								"y": 23.33,
+								"z": 0.5
+							},
+							{
+								"x": 7.18,
+								"y": 23.33,
+								"z": 0.5
+							},
+							{
+								"x": 8.08,
+								"y": 23.33,
+								"z": 0.5
+							},
+							{
+								"x": 8.08,
+								"y": 22.44,
+								"z": 0.5
+							},
+							{
+								"x": 8.97,
+								"y": 22.44,
+								"z": 0.5
+							},
+							{
+								"x": 9.87,
+								"y": 22.44,
+								"z": 0.5
+							},
+							{
+								"x": 9.87,
+								"y": 21.54,
+								"z": 0.5
+							},
+							{
+								"x": 10.77,
+								"y": 21.54,
+								"z": 0.5
+							},
+							{
+								"x": 11.67,
+								"y": 21.54,
+								"z": 0.5
+							},
+							{
+								"x": 12.56,
+								"y": 21.54,
+								"z": 0.5
+							},
+							{
+								"x": 12.56,
+								"y": 22.44,
+								"z": 0.5
+							},
+							{
+								"x": 12.56,
+								"y": 23.33,
+								"z": 0.5
+							},
+							{
+								"x": 12.56,
+								"y": 24.23,
+								"z": 0.5
+							},
+							{
+								"x": 12.56,
+								"y": 25.13,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 26.92,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 27.82,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 28.72,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 29.61,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 30.51,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 31.41,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 32.31,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 33.2,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 34.1,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 35,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 35.9,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 36.79,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 37.69,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 38.59,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 39.49,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 40.38,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 41.28,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 42.18,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 43.08,
+								"z": 0.5
+							},
+							{
+								"x": 13.46,
+								"y": 43.97,
+								"z": 0.5
+							},
+							{
+								"x": 12.56,
+								"y": 43.97,
+								"z": 0.5
+							},
+							{
+								"x": 12.56,
+								"y": 44.87,
+								"z": 0.5
+							},
+							{
+								"x": 11.67,
+								"y": 44.87,
+								"z": 0.5
+							},
+							{
+								"x": 11.67,
+								"y": 45.77,
+								"z": 0.5
+							},
+							{
+								"x": 10.77,
+								"y": 45.77,
+								"z": 0.5
+							},
+							{
+								"x": 10.77,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": 9.87,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": 8.97,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": 8.08,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": 7.18,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": 6.28,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": 5.38,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": 4.49,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": 3.59,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": 2.69,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": 1.79,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": 0.9,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": 0,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -1.79,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -2.69,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -4.49,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -5.38,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -6.28,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -7.18,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -8.08,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -8.97,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -9.87,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -11.67,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -12.56,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -13.46,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -14.36,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -15.26,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -16.15,
+								"y": 46.67,
+								"z": 0.5
+							},
+							{
+								"x": -17.05,
+								"y": 46.67,
+								"z": 0.5
+							}
+						]
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a5BkP",
+			"typeName": "shape"
+		},
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": 1789.5343695636875,
+			"y": 1504.0406588438036,
+			"lastActivityTimestamp": 1755334098332,
+			"meta": {}
+		},
+		{
+			"x": 59.963583808017574,
+			"y": 235.68859222775734,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ZrDheCPYB7ElpzlLlJP5i",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 809.1625366210938,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 0.7714931771551055,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "function functionName(parameter1,parameter2,......parameterN) {"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "       //statements"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "       return value"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "}"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a46Rn",
+			"typeName": "shape"
+		},
+		{
+			"x": 1626.0463612358722,
+			"y": 1490.1030193715196,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:SZkd1v3hPoB_Yvnut2-bj",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 397.3194274902344,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 0.5665893866147856,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "( calling another function from "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "the called function ) "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aF4UX",
+			"typeName": "shape"
+		},
+		{
+			"x": -1248.7181342927768,
+			"y": -1366.0010582393224,
+			"z": 0.6375233147571155,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 115.89408874511719,
+			"y": 62.91666221618652,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-8OsoqQ8U-0pnCxitOWAz",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 325.875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "function functionName() {"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "       //statements"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "}"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": 77.5999984741211,
+			"y": 52,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:OZJlu0zZ2IsPtfFZIsmWY",
+			"type": "geo",
+			"props": {
+				"w": 388.7999954223633,
+				"h": 124,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a24XE",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:SZkd1v3hPoB_Yvnut2-bj"
+			],
+			"hoveredShapeId": "shape:SZkd1v3hPoB_Yvnut2-bj",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 1658.5070581376615,
+			"y": 427.17896059438084,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PJlAMkXST687KDHfauwU8",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 278.8182368641809,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 0.6124812049028363,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "( function is assigned to a variable )"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aC9Pr",
+			"typeName": "shape"
+		},
+		{
+			"x": 1296.033216963382,
+			"y": 64.22997452421816,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:SBH5WiimIDVVhJzZxBEP-",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 973.5172729492188,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "orderedList",
+							"attrs": {
+								"start": 1
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Named functions"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "       syntax:       function functionName() {"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                  //statements"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                         }"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                         functionName();    --->  console outputs"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                         console.log(functionName())    ---> console  & return  outputs"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                         console.log(functionName)     ---> function definiton"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "  "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"start": 2
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": " First class functions"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "       syntax:    variable ref_var  = function functionName() {"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                    //statements"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                      }"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                      ref_var()               --->  console outputs"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                      console.log(ref_var())     --->  console & return outputs"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                      console.log(ref_var)     --->  function definition"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"start": 3
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Anonymous functions"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    syntax :     variable  ref_var = function() {"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                              //statements"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                      }"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                       ref_var()   ---> console outputs"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                       console.log(ref_var())   ---> console & return outputs"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                       console.log(ref_var)   ---> function definition"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"start": 4
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Arrow functions"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   syntax:   variable  ref_var = () => {"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                        //statements"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                 }"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                 ref_var()   ---> console outputs"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                 console.log(ref_var())   ---> console & return outputs"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                 console.log(ref_var)   ---> function definition"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"start": 5
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": " Callback functions  "
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "  "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "  syntax:     function functionName1(functionName2) {"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                    //statements"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                    functionName2();"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                   }"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                   function functionName2() {"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                    //statements"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                   }"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                   functionName(functionName2);"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aA8RK",
+			"typeName": "shape"
+		},
+		{
+			"x": 1588.4796756716896,
+			"y": 1127.2350470058686,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:1UtnKIkDTdAUN8nwyOetz",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 389.5850524902344,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 0.39560455356977625,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "(  function keyword is not used"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "replacing with arrow symbol "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "            \" () => \"  )"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aE9Op",
+			"typeName": "shape"
+		},
+		{
+			"x": 584.8273844852923,
+			"y": 136.17941433994383,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:iAUWD5D4S1PG-mpyOnHXQ",
+			"type": "geo",
+			"props": {
+				"w": 247.49076798568467,
+				"h": 50.62312041124821,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "light-red",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a88Ut",
+			"typeName": "shape"
+		},
+		{
+			"x": 1646.4296673471313,
+			"y": 781.4961184828618,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:E2RjVKhTqR5Au4IK8P9hg",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 232.94389344150377,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 0.6428316794906597,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "( functionName is not used  )"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aD7wA",
+			"typeName": "shape"
+		},
+		{
+			"x": 328.28884756629265,
+			"y": 275.1745616638045,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:N6NFRC0RCMCulGtRKDhLT",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 359.7124938964844,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "function body / block of code"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a6C0c",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:geo": "rectangle",
+				"tldraw:color": "black"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 1018.333251953125,
+				"h": 452.2221984863281
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.8000000715255737,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"x": 848.0675848755324,
+			"y": 143.60351927008654,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gcES6HWiZSbLPabvbNRvz",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 192.8125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "function calling"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a97Sw",
+			"typeName": "shape"
+		},
+		{
+			"x": 499.20001220703125,
+			"y": 88.60000228881836,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:cinK-4UydO8wfr-Atgg7O",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 229.0500030517578,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "function definition"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a35UY",
+			"typeName": "shape"
+		},
+		{
+			"x": 606.2015651329021,
+			"y": 142.4785782042258,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:4ZsaHgKc0Hf5EIQKdrpQ5",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 202.65000915527344,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "functionName();"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a71jc",
+			"typeName": "shape"
+		}
+	]
+}
